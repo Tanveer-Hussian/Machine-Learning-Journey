@@ -42,5 +42,77 @@ If you're reviewing this as a recruiter or collaborator, this repo gives a clear
 
 ---
 
-## 🗂️ Repository Structure
+
+---
+
+## 🧠 Skills Demonstrated
+
+### **Data Analysis**
+- Data cleaning  
+- Distribution analysis  
+- Outlier detection  
+- Visualization storytelling  
+
+### **Feature Engineering & Preprocessing**
+- Works with structured, mixed-type, and skewed data  
+- Creates consistent, reusable preprocessing pipelines  
+
+### **Machine Learning**
+- Regression & classification  
+- Cross-validation  
+- Metrics interpretation  
+- Real-world dataset modeling  
+
+### **Core Tools**
+- Python  
+- NumPy & Pandas  
+- Scikit-Learn  
+- Matplotlib & Seaborn  
+- Jupyter Notebook  
+
+---
+
+## ⭐ Highlighted Projects
+
+### 📌 Ford Car Price Prediction (Regression)
+- End-to-end pipeline  
+- Feature engineering  
+- Model evaluation  
+- Error analysis  
+
+### 📌 Classification Pipeline with Cross Validation
+- Stratified sampling  
+- Confusion matrix analysis  
+- Accuracy, precision, recall, F1  
+- Model stability testing  
+
+### 📌 EDA Case Studies
+- Detailed dataset understanding  
+- Actionable insights from raw data  
+- Professionally visualized reports  
+
+---
+
+## 🎯 Purpose of This Portfolio
+
+To demonstrate clear progression in Machine Learning and show:
+
+- Practical coding ability  
+- Problem-solving through real projects  
+- Understanding of ML workflows  
+- Readiness for advanced ML, NLP, and Deep Learning  
+
+This repository is continuously expanding as I move into more advanced topics.
+
+---
+
+## 🔮 Upcoming Additions
+
+- Advanced regression models  
+- Tree-based algorithms  
+- Feature selection techniques  
+- NLP fundamentals  
+- Deep learning introduction  
+- End-to-end deployment-ready ML projects  
+
 
